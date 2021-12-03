@@ -8,7 +8,7 @@ namespace Comm
         [DispId(1)]
         string Greeting(string name);
     }
-
+      
     [ComVisible(true)]
     public interface IMath
     {
